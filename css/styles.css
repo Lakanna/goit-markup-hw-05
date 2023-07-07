@@ -930,7 +930,7 @@ border-color: var(--primary-brand);
     padding: 16px 32px;
     margin: 0 auto;
     /* gap: 10px; */
-    width: 169px;
+    min-width: 169px;
     height: 56px;
     flex-shrink: 0;
 
@@ -963,7 +963,7 @@ border-color: var(--primary-brand);
     padding: 8px 16px;
    
     font-size: 12px;
-    line-height: 1.2;
+    line-height: 1.17;
     letter-spacing: 0.48px;
     color: rgba(46, 47, 66, 0.4);
 
